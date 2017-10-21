@@ -2,8 +2,19 @@
 <resources>
     <!--SidebarLetter 是你自己新建的View的名字-->
     <declare-styleable name="SidebarLetter">
-        <attr name="TextSize" format="integer"/>
-        <attr name="TextColor" format="color"/>
-        <attr name="UnTextColor" format="color"/>
+        <attr name="TextSize" format="integer" />
+        <attr name="TextColor" format="color" />
+        <attr name="UnTextColor" format="color" />
     </declare-styleable>
+
+    <!--<declare-styleable name="QqWorkCircle">-->
+        <!--<attr name="CircleColor" format="color" />-->
+        <!--<attr name="UnCircleColor" format="color" />-->
+        <!--&lt;!&ndash;宽度&ndash;&gt;-->
+        <!--<attr name="Width" format="integer" />-->
+        <!--&lt;!&ndash;中间数字&ndash;&gt;-->
+        <!--<attr name="CenText" format="string" />-->
+        <!--&lt;!&ndash;数字颜色&ndash;&gt;-->
+        <!--<attr name="TextColor" format="color"/>-->
+    <!--</declare-styleable>-->
 </resources>
